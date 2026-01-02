@@ -1,6 +1,7 @@
 # MTA:sa Script For Admins(Ban admin)
-This script includes banning admins within the server, which is accessible from the administrator rank and above. Stay tuned with us.
+This script includes banning admins within the server, which is accessible from the administrator rank and above. Stay tuned with us
 
+![Mta](mta131.png)
 ---
 # MTA:SA Permanent Admin Ban System (banpadmin)
 
@@ -39,7 +40,13 @@ Result:
    ```xml
    <script src="Admin_Ban.lua" type="server"/>
 
+---
+
 # Note:
 ![Rank_Admins](https://github.com/GodFather850/Makeadmin-command-Rank-admin-adminchat-for-MTA-Sa-)
 
 **click link for rank admins in script Lua**
+
+--- 
+
+![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
