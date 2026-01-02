@@ -74,5 +74,11 @@ Result:
 **click link for rank admins in script Lua**
 
 --- 
+# -👤Created By GodFather 
+
+# -📜MTA Scripter • Linux Learner🐧 • Linux User🔥 • Future DevOps Engineer 🇺🇸🔥
+
+---
+
 
 ![Tux](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
