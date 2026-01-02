@@ -3,6 +3,32 @@ This script includes banning admins within the server, which is accessible from 
 
 ![Mta](mta131.png)
 ---
+# Notification source
+
+**notiffication including 'Warning', 'error', 'info' and 'success' notf to use your server**
+
+# hou to use Notification resource in server ?
+
+**setup 1:**
+
+```markdown
+Download Source And Move to your server resource folder
+Enter command in server command line:
+refresh
+start notf
+if notf file is exists:
+stop <your notf folder name>
+start notf
+```
+
+**Setup 2:**
+```markdown
+go to the resource codes and change notification names to notf
+go to server configuration file and add notf for automatic start
+Restart your server
+```
+
+---
 # MTA:SA Permanent Admin Ban System (banpadmin)
 
 **Scripted by GodFather** – Secure and professional command to permanently ban cheating or rule-breaking admins.
