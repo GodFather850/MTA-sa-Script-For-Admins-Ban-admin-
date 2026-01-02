@@ -37,4 +37,9 @@ Result:
 1. Place the file in your server's resources folder
 2. Add to `mtaserver.conf`:
    ```xml
-   <script src="banpadmin.lua" type="server"/>
+   <script src="Admin_Ban.lua" type="server"/>
+
+# Note:
+![Rank_Admins](https://github.com/GodFather850/Makeadmin-command-Rank-admin-adminchat-for-MTA-Sa-)
+
+**click link for rank admins in script Lua**
