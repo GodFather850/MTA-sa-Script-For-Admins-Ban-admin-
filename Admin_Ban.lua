@@ -37,18 +37,18 @@ function banpadmin(thePlayer, command, admin, ...)
                             end
                         end
                     else
-                        notf.addNotification(thePlayer, "You are not allowed to ban admin members!", 'error')
+                        exports["notf"]:addNotification(thePlayer, "You are not allowed to ban admin members!", 'error')
                     end
                 else
-                    notf.addNotification(thePlayer, "You are not allowed to ban higher ranks!", 'error')
+                    exports["notf"]:addNotification(thePlayer, "You are not allowed to ban higher ranks!", 'error')
                 end
             else
-                notf.addNotification(thePlayer, "Enter Reason For Ban Admin"..find_name, 'error')
+                exports["notf"]:addNotification(thePlayer, "Enter Reason For Ban Admin"..find_name, 'error')
             end
         else
-            notf.addNotification(thePlayer, "Player Not Found", 'error')
+            exports["notf"]:addNotification(thePlayer, "Player Not Found", 'error')
         end
     else
-        notf.addNotification(thePlayer, "Syntax: /banpadmin <find Player> <Reason>", 'info')
+        exports["notf"]:addNotification(thePlayer, "Syntax: /banpadmin <find Player> <Reason>", 'info')
     end
 end
